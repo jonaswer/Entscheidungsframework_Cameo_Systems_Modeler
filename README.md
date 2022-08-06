@@ -8,4 +8,4 @@ The approach is a multicriteria model-based decision comparing each model with s
 
 The decision-tool is written in MATLAB and Python, which is called by Cameo Systems Modeler. The Matlab file can be used as a constraint block in MATLAB and has ports for joining technology models.
 
-The thesis can be also used as a documentation of the software architecture.
+The thesis can be also used as a documentation of the software architecture as well as a guide for design system models of joining technologies. 
