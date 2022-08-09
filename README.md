@@ -10,4 +10,4 @@ The decision-tool is written in MATLAB and Python, which is called by Cameo Syst
 
 ![graph](software_architecture.png)
 
-The thesis can be also used as a documentation of the software as well as a guide for design system models of joining technologies. 
+The thesis can be also used as a documentation of the software as well as a guide for design system models of joining technologies. It can be sended by request on jonas.werheid@rwth-aachen.de
