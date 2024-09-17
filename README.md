@@ -12,4 +12,4 @@ The decision-tool is written in MATLAB and Python, which is called by Cameo Syst
 
 # Manuscript 
 
-It can be sended by request on jonas.werheid@rwth-aachen.de
+It can be sended by request on jonas.werheid@rwth-aachen.de.
