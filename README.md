@@ -6,10 +6,10 @@ The approach is a multicriteria model-based decision comparing each model with s
 
 # Documentation
 
-The decision-tool is written in MATLAB and Python, which is called by Cameo Systems Modeler. The Matlab file can be used as a constraint block in MATLAB and has ports for joining technology models. A .csm data can be given upon request.
+The decision-tool is written in MATLAB and Python, which is called by Cameo Systems Modeler. The Matlab file can be used as a constraint block in MATLAB and has ports for joining technology models. A .csm file can be given upon request along with the research manuscript describing the approach in detail.
 
 ![graph](software_architecture.png)
 
-# Manuscript 
+# Contact
 
-It can be sended by request on jonas.werheid@rwth-aachen.de.
+Jonas Werheid, jonas.werheid@rwth-aachen.de.
