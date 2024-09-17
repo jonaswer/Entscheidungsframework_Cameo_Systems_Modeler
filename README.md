@@ -2,7 +2,7 @@
 
 Model-based systems engineering is a methodology focusing on domain models as the primary information source rather than documents. Models of joining technologies can be used to simulate a joining process as a subdomain inside a larger construction. The repository is representing a decision-tool for comparing joining technologies modeled inside the software Cameo Systems Modeler, where each joining technology is modeled with the systems engineering language SysML.
 
-The approach is a multicriteria model-based decision comparing each model with specific conditions from the user. The code is based on this approach, written in my bachelorthesis and can be transfered to other SysML models. 
+The approach is a multicriteria model-based decision comparing each model with specific conditions from the user. The code is based on my academic research in RWTH Aachen University and can be transferred to other SysML decision approaches. 
 
 # Documentation
 
@@ -10,4 +10,6 @@ The decision-tool is written in MATLAB and Python, which is called by Cameo Syst
 
 ![graph](software_architecture.png)
 
-The thesis can be also used as a documentation of the software as well as a guide for design system models of joining technologies. It can be sended by request on jonas.werheid@rwth-aachen.de
+# Manuscript 
+
+It can be sended by request on jonas.werheid@rwth-aachen.de
